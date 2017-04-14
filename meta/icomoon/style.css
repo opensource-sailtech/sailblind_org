@@ -13,6 +13,7 @@
   /* use !important to prevent issues with browser extensions that change fonts */
   font-family: 'icomoon' !important;
   speak: none;
+  font-size: 140px;
   font-style: normal;
   font-weight: normal;
   font-variant: normal;
@@ -27,4 +28,3 @@
 .icon-r19_bow_silhouette06--single_object:before {
   content: "\e900";
 }
-
