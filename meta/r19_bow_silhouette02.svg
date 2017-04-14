@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="r19_bow_silhouette02.svg">
+   sodipodi:docname="r19_bow_silhouette.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -25,11 +25,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.175"
-     inkscape:cx="1890.7992"
-     inkscape:cy="-697.03937"
+     inkscape:zoom="0.7"
+     inkscape:cx="831.03457"
+     inkscape:cy="612.94883"
      inkscape:document-units="px"
-     inkscape:current-layer="g4318"
+     inkscape:current-layer="g4225"
      showgrid="false"
      units="px"
      inkscape:window-width="1920"
@@ -57,12 +57,12 @@
     <g
        id="g4318">
       <ellipse
-         ry="386.63815"
-         rx="363.41333"
-         cy="594.52588"
-         cx="437.91202"
+         ry="387.95697"
+         rx="401.875"
+         cy="603.66876"
+         cx="451.62631"
          id="path4223"
-         style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:57.63858795;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:60.71525574;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <g
          transform="matrix(0.98424076,0.17683359,-0.17683359,0.98424076,-870.81,-659.08765)"
          id="g4225">
