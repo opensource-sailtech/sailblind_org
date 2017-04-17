@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="900"
-   height="900"
-   viewBox="0 0 900.00001 900.00001"
+   width="848"
+   height="745"
+   viewBox="0 0 848.00001 745.00001"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -53,28 +53,14 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-152.36216)">
+     transform="translate(0,-307.36216)">
     <g
        id="g4281">
-      <rect
-         y="195.36217"
-         x="27.5"
-         height="745.14288"
-         width="848"
+      <path
+         style="opacity:1;fill:#333333;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 0,307.36216 0,580.30105 c 12.392152,0.41944 24.514717,2.68104 31.4375,6.05939 199.42765,70.13988 419.16271,28.34223 376.6543,66.55952 332.97032,47.56658 244.45299,-275.55265 366.97656,10.14845 -4.9586,31.22393 46.4592,-28.64127 44.0918,13.36072 -5.61653,20.73731 -2.55985,47.41191 -10.27344,68.57091 l 39.11328,0 0,-745.00004 -173.68359,0 100.04882,362.94421 -59.13085,12.36091 -19.0879,78.72713 c -51.50442,-19.35238 -279.4423,-8.41105 -431.96484,6.72527 l -2.88281,-2.76314 -13.74024,-457.99438 -247.55859,0 z m 0,618.79368 0,126.20636 693.28906,0 c -4.41064,-1.5632 -8.8739,-2.8842 -13.41601,-3.8392 -20.18134,-5.0055 -43.75187,-10.6457 -64.39063,-4.9228 -62.08257,16.413 -124.48515,-8.814 -180.52344,-30.7676 -44.27242,-6.7281 -90.97372,10.8146 -133.64843,-6.1394 C 196.15433,966.95003 96.77669,949.24671 0,926.15584 Z"
          id="rect4177"
-         style="opacity:1;fill:#333333;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <path
-         sodipodi:nodetypes="cccccccccccc"
-         inkscape:connector-curvature="0"
-         id="path4265"
-         d="M 642.98199,931.74104 C 580.89942,948.15724 518.4976,922.92621 462.45931,900.96837 418.18689,894.23896 371.48549,911.78408 328.81078,894.82678 210.86941,850.24304 100.18697,833.40956 -7.6969072,805.57697 -35.439419,771.52974 37.251915,771.25081 58.93715,781.83534 c 199.42765,70.1533 419.1621,28.34772 376.65369,66.57233 332.97032,47.57571 244.45471,-275.6053 366.97828,10.15048 -4.9586,31.22989 46.45787,-28.647 44.09047,13.36303 -8.49187,31.35959 2.86421,76.30309 -33.19774,95.21204 -38.97363,7.68286 -70.05853,-22.8924 -106.08888,-30.46909 -20.18134,-5.00647 -43.75259,-10.64757 -64.39135,-4.92356 z"
-         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:14;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path4205"
-         d="m 699.31494,186.28682 102.55034,372.08875 -59.13105,12.36361 -19.08867,78.74245 c -51.50442,-19.35608 -279.44107,-8.41284 -431.96361,6.72638 l -2.88376,-2.76444 -14.01144,-467.11168 c 126.64224,-47.34726 219.47237,-49.22349 424.52819,-0.0451 z"
-         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:14;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         sodipodi:nodetypes="cccccccc" />
+         inkscape:connector-curvature="0" />
       <path
          sodipodi:nodetypes="ccccccccccccccccc"
          inkscape:connector-curvature="0"
@@ -84,17 +70,17 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="318.57144"
-         y="313.79074"
+         x="267.14288"
+         y="368.07645"
          id="text5188"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
            id="tspan5190"
-           x="318.57144"
-           y="313.79074">placeholder image </tspan><tspan
+           x="267.14288"
+           y="368.07645">placeholder image </tspan><tspan
            sodipodi:role="line"
-           x="318.57144"
-           y="363.79074"
+           x="267.14288"
+           y="418.07645"
            id="tspan5192">for Thursdays</tspan></text>
       <g
          id="g4397"
