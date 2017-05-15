@@ -36,6 +36,7 @@ sites/simpletest
 ######################
 *.log
 *.sql
+logs
 npm-debug.log*
 
 # OS generated files #
